@@ -175,8 +175,9 @@ Where:
 **Hannah Teng**  
 - Email: hannah.lai.offer@gmail.com
 - GitHub: [github.com/HannahTeng](https://github.com/HannahTeng)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/hannahteng)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/hannah-teng-4a202a355/)
 
+  
 ## 📄 License
 
 This project is for portfolio and educational purposes.
